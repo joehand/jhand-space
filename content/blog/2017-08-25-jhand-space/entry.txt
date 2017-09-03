@@ -1,0 +1,15 @@
+title: A new space for writing & experiments
+----
+draft: true
+----
+date: 2017 September 01
+----
+
+text:
+
+I really needed a new place for experimentation, fun, and writing. My old site, [joeahand.com](https://joeahand.com/), was nice and a lot of fun to build. But it was not good for blogging or adding random frontend experiements.
+
+* CMS/Static Site: [Enoki](https://github.com/jondashkyle/enoki)
+* JS Framework: [Choo](https://github.com/choojs/choo)
+* CSS: [tachyons](http://tachyons.io/)
+* Analytics: [fair analytics](https://github.com/vesparny/fair-analytics)

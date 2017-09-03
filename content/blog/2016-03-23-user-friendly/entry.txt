@@ -1,0 +1,72 @@
+title: The Secret to Creating User Friendly Products
+----
+date: 2016 March 23
+----
+
+text:
+
+It was my first time in South Africa. Or Africa at all for that matter. My task was to train a mothers’ group from the Khayelitsha township in Cape Town how to use the prototype data collection tool we were designing for Shack/Slum Dwellers International. I had no business doing this. As a white, American, privileged male with no international experience, I was about as far as you could get from my users living in informal settlements of developing countries worldwide.
+
+It was a spectacular flop. The first day was training. The second day we were supposed to use these new tools in the field during a community-driven settlement profile. The second day came and the only person using the new tool was me — I gave up half way through. We resorted to pen and paper.
+
+When we got back to the US, we didn’t go back to the drawing board. We threw it in the trash. We were supposed to make a tool that could be used in over 30 countries in the Global South in community-driven data collection activities. Different languages. Different technological capacities. Different types of data collection. Different understandings of the word *household*. We couldn’t even get one community group to understand the prototype.
+
+---
+
+Certain technologies and platforms *thrive* on being unfriendly to new users. This may sound strange, but do you remember the first time you used Twitter? Snapchat? Have you ever tried to teach someone your own age how to use Twitter or Snapchat? Have you tried to explain to a parent how they work? What about a grandparent?
+
+Twitter makes absolutely no sense until you use it. Snapchat is successful precisely because it [confuses olds](http://www.bloomberg.com/features/2016-how-snapchat-built-a-business/). These platforms aren’t hard to use once you are in but they make it hard to get in.
+
+Users like these platforms because there is a price to entry. Once you learn how to use them, you become a part of the club. It’s an initiation ritual. Don’t want to spend the time understanding what a follower is and what a retweet means? Sorry, you don’t belong.
+
+In these platforms, there is a high amount of friction for new users. Either you overcome this and are rewarded, or you remain an outsider.
+
+---
+
+Most companies take the opposite approach. They want everyone in: Facebook, Apple, Slack (current pinnacle of user friendly). These companies try to get as many people using their tools as possible with minimal resistance.
+
+Even though they make it easy, they still force you to think in a certain way. Try riding a bike in a way it wasn’t designed for. Use your doorknob like it belongs to a sliding door. Use an Apple like it was an Android. Eat an android like it was an apple.
+
+Forcing people to think and act in certain ways is the Achilles’ heel of technology (technology in the broadest sense; try using a fiery stick like its a regular stick). Technology cannot be developed without assumptions.
+
+All tools we create have their own structure and terms of use. New users must learn these peculiarities. This can be an asset (Snapchat, Twitter) or something to minimize. You have to face this hurdle or ignore it at your peril (and without compassion for your users).
+
+---
+
+In the end, we succeeded in creating a new data collection pipeline for Slum/Shack Dwellers International with lots of awesome work from communities worldwide, [Ona](http://ona.io/), and [Enketo](https://enketo.org/), and partners at SDI.
+
+Over 7,000 communities worldwide have collected and updated their profile data in a year, a feat that previously took over five years. In Accra, Ghana the community and support partners have data on over 4,000 services: whether the service is working, the quality of the service, and who owns and manages the service (perhaps better data than the city government has):
+
+![Informal Settlement Services in Accra (Interface: [Ona.io](https://ona.io), Data: SDI & People’s Dialogue on Human Settlements, Ghana)](https://cdn-images-1.medium.com/max/2314/1*UxzcdBDVA3e14TvnNPORGw.png)
+
+*Informal Settlement Services in Accra (Interface: [Ona.io](https://ona.io), Data: SDI & People’s Dialogue on Human Settlements, Ghana)*
+
+---
+
+## Create a user friendly product by admitting your product isn’t user friendly
+
+1. Minimize new user friction.
+2. Admit that users need to learn new ideas. Users will be uncomfortable at first, that’s okay.
+3. Introduce new concepts, terms, and UI elements slowly. Let users test one function at a time. Guide them through the process but do not force them to move forward. Make sure users can enter or move forward at their own pace.
+4. Allow users to enter at any level of complexity. Give users small and concrete awards for each new hurdle they cross.
+
+---
+
+[Read the details of how we addressed these with SDI](blog/2016-03-24-data-platform/).
+
+Each technology and platform will be different. For another example, look at the writing experience here on Medium.
+
+1. Minimal friction. “Write here” box on the homepage. Once click and users get a text box, a familiar thing.
+2. Admit users will be uncomfortable. Don’t make them “start a new draft.” That sounds like a commitment. Let them write first, explore functionality later.
+3. Add concepts slowly. Want see more features? Go full screen and show formatting tips on the bottom *but don’t force a user through them.*
+4. Instant rewards. Write something and publish. It takes two clicks and some writing to publish content. Awesome.
+
+Medium starts with the most basic functionality (writing) and allows the user to expand their knowledge as they get comfortable.
+
+Your product will not be user friendly. Admit it to yourself. Help your users through the friction. Have compassion for them. Introduce ideas slowly.
+
+Each user needs an entry point. Too simple and they will overlook the tool as too basic. Too complex and they will get frustrated and leave. **Identify the steps of complexity of your technology and make it straightforward to enter at any point on the ladder.**
+
+Finally, make sure they get rewards for their learning & patience.
+
+And if you want to build the next Snapchat? Do the opposite of everything above.

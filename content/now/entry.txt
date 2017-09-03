@@ -1,0 +1,25 @@
+title: Now
+
+----
+
+text:
+
+<span class="f7 avenir">*(This is my now page, letting you know what I am doing now. [The idea](http://nownownow.com/about) was inspired by Derek Sivers.)*</span>
+
+I am enjoying the summer at home in Portland, Oregon. I spend my time hacking with Dat Project and teaching a web mapping class. I'm trying to hit 90 days of meditation in a row (via Headspace). I've gotten on a [business-book reading binge](/blog/2017-01-books/) thinking about the future of our nonprofit.
+
+#### Working: Code for Science & Society (Dat Project)
+
+I am working on Dat Project. We build systems and tools for making it easier to collaborate and share data. One of the big focuses right now is making Code for Science & Society, our burgeoning nonprofit company, a sustainable enterprise. Part of this is looking for grants but also thinking about how to fund it long term through other means.
+
+With Dat Project, I maintain the command line and dat-node module. I like taking our awesome underlying technical work and making nice interfaces to them. Recently I've built things like [chat.datproject.org](http://chat.datproject.org/) and [standup-friends](https://github.com/joehand/standup-friends) to see how we can use our distributed tools in interesting ways (even when the user has no idea).
+
+Head to [github/joehand](https://github.com/joehand) to what other code I'm working on.
+
+#### Teaching: Web Cartography - Hack Oregon
+
+I recently finished teaching the Web Cartography class for [Hack Oregon](http://www.hackoregon.org/) this summer. You can [check out](web-cartography.glitch.me) some of what we work on via Glitch.
+
+As part of the class, all the students are doing map projects. I am building a project of my own too - a map illustrating how buses are affected by traffic, and how much delay is in the system. [In progress code here](https://github.com/joehand/trimet-map).
+
+*Last updated: September 3rd, 2017.*

@@ -1,0 +1,64 @@
+title: How to Build an International Data Platform
+----
+date: 2016 March 24
+----
+
+text:
+
+Creating a user friendly experience is not easy. Especially when you are not the user and don’t know much about the end user.
+
+**If you didn’t see the introduction post**, [check it out here](/blog/2016-03-23-user-friendly/). Here is the short version:
+
+In order to create a user friendly product, you should:
+
+1. Minimize new user friction.
+2. Admit that users need to learn new ideas to use your product.
+3. Introduce new concepts, terms, and UI elements slowly.
+4. Give users small and concrete awards for each new hurdle they cross.
+5. (In our case) Have awesome and patient users.
+
+We had our own unique challenges in addressing each of these. But in the end, it was mostly about compassion for our users.
+
+---
+
+### Minimize New User Friction
+
+We quickly scrapped the mobile-first approach we had prototyped. Everyone is familiar with pen and paper. They won’t get stolen or have dead batteries. They won’t need internet connections to upload data. We started there.
+
+(We still made mobile and tablets an option. Certain users may have more friction with paper than mobile. Paper creates other frictions later.)
+
+When users moved to digital, we made it seamless by making the digital form look **exactly** the same as the paper form (huge props here to Martijn van de Rijdt at [Enketo](https://enketo.org/)), including any language or local wording differences.
+
+By the end, we had communities members that had never touched a computer before collecting and entering data.
+
+### Admit Users Will Be Uncomfortable
+
+We had to be upfront with our users. People like learning and trying new things, but not to the point of frustration. In our training we had to tell the community this would be hard. They were learning lots of new things. We took breaks. We did fun things on breaks. Most importantly, we always presented something at the end showing the result of their hard work.
+
+### Introduce New Concepts Slowly
+
+Going from zero technical knowledge to collecting and entering geographic data was a big hurdle. We did not acknowledge this at the first prototype training. Once we failed one time, we had to think about how we could separate these new ideas.
+
+We started with the basic data collection on paper. No map concepts. No digital devices. Collecting and entering population numbers, community problems, things people lived with in their daily life: numbers and text.
+
+Once the communities understood what “data” meant, then we moved them to the computer. They were able to enter the data and see how it feels to move from paper to computer. After a form was completely entered, they could print the digital version of their completed form. It looked the exact same as the pen copy but printed ink, more permanent. This also gave reassurance that what had been written on paper was also recorded digitally.
+
+After users were comfortable with digital forms we could start introducing geographic concepts by starting with a satellite map of a familiar place, their neighborhood. Whenever there we new concepts we needed to anchor with familiar topics (GIS concepts anchored in the map of their neighborhood). New topics, familiar concepts. Don’t do both at once.
+
+We had lots of other types of users too. We had NGO GIS professionals. They could dive right into the map tool, a familiar concept, and start exploring similar filtering and mapping tools. We had heavy Excel users. They could create instant reports with common Excel functions from a live database.
+
+Each user needs an entry point. Too simple and they will overlook the tool as too basic. Too complex and they will get frustrated and leave. **Identify the steps of complexity of your technology and make it straightforward to enter at any point on the ladder.**
+
+We added layer upon layer without requiring everything to be done to see results. Users could see results right away, in whatever domain they were comfortable.
+
+### Give Users Rewards for New Ideas Learned
+
+Every time a user learns a new concept they should be rewarded. Cement that concept in their mind. Give them a chance to take a break, or go back if they want to relearn.
+
+We made many types of outputs, from the basic printed digital copy of the form to advanced data views and filters. Each concept should have a rewarding output the user can experience immediately.
+
+It’s not an accident that the level-up type games are so popular.
+
+### Have Awesome & Patient Users
+
+Of course, none of this could have been done without our community users, partners at Slum/Shack Dwellers International, and developers at Ona and Enketo. Finally, a big thanks to the community members that had amazing patience when I tried to have everyone collect data on mobile phones.

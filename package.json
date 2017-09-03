@@ -1,0 +1,45 @@
+{
+  "name": "jhand-space",
+  "version": "1.0.0",
+  "description": "a space about joe hand",
+  "main": "site/index.js",
+  "scripts": {
+    "start": "enoki dev",
+    "serve": "cd public && python -m SimpleHTTPServer 8080",
+    "dev": "budo site/ -l -o -P --s bundle.js -d content -d site/assets -- -t enoki/transform -t require-globify",
+    "build": "enoki build && browserify site/ -o public/bundle.js -t require-globify -t enoki/transform -t yo-yoify -t es2040",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
+  "license": "ISC",
+  "dependencies": {
+    "choo": "^6.0.0",
+    "choo-log": "^7.2.1",
+    "enoki": "^1.0.3",
+    "fair-analytics-client-api": "^1.1.0",
+    "marked": "^0.3.6",
+    "nano-markdown": "^1.2.0",
+    "nanocomponent": "^6.3.0",
+    "object-keys": "^1.0.11",
+    "object-values": "^1.0.0",
+    "xhr": "^2.4.0",
+    "xtend": "^4.0.1",
+    "yo-yoify": "^3.7.3"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "budo": "^10.0.4",
+    "es2040": "^1.2.6",
+    "fair-analytics": "^1.1.2",
+    "require-globify": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehand/jhand-space.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joehand/jhand-space/issues"
+  },
+  "homepage": "https://github.com/joehand/jhand-space#readme"
+}
