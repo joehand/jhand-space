@@ -1,15 +1,20 @@
 title: A new space for writing & experiments
 ----
-draft: true
-----
-date: 2017 September 01
+date: 2017 September 14
 ----
 
 text:
 
-I really needed a new place for experimentation, fun, and writing. My old site, [joeahand.com](https://joeahand.com/), was nice and a lot of fun to build. But it was not good for blogging or adding random frontend experiements.
+Welcome to jhand.space! This is my new place for experimentation, fun, and writing. You can check out some of my old stuff at [joeahand.com](https://joeahand.com/) too.
 
-* CMS/Static Site: [Enoki](https://github.com/jondashkyle/enoki)
-* JS Framework: [Choo](https://github.com/choojs/choo)
-* CSS: [tachyons](http://tachyons.io/)
-* Analytics: [fair analytics](https://github.com/vesparny/fair-analytics)
+[Enoki](https://github.com/jondashkyle/enoki), used to build this site, caught my eye when it was first published. The development experience is well thought out. It is capable of building powerful static sites while keeping things simple. Most importantly, the file-based structure has awesome implications for publishing on the peer-to-peer web.
+
+Since all the content is file-based, it will allow us to decentralize site publishing from content creation. I could write a generic front-end blog template. Then *anyone* can plugin their content into my template to create a static site. This is Wordpress theming that allows combinations of any front-end logic with any content, all up to your imagination. But it keeps all the content local on your computer (and backup up anywhere over the Dat network). Very exciting.
+
+Along with Enoki, I got to use a couple other technologies I am loving:
+
+* [Choo](https://github.com/choojs/choo) - frontend JS framework that is actually fun to use.
+* [Tachyons](http://tachyons.io/) - we all know CSS is the most important part of a site, and Tachyons does it right.
+* [fair analytics](https://github.com/vesparny/fair-analytics) - web tracking without stealing your privacy! Keep it fair for everyone.
+
+Really looking forward to how this develops! Keep an eye out for more posts and experiments.
