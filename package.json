@@ -8,6 +8,7 @@
     "serve": "cd public && python -m SimpleHTTPServer 8080",
     "dev": "budo site/ -l -o -P --s bundle.js -d content -d site/assets -- -t enoki/transform -t require-globify",
     "build": "enoki build && browserify site/ -o public/bundle.js -t require-globify -t enoki/transform -t yo-yoify -t es2040",
+    "deploy": "npm run build && cd public && DEBUG=dat* dat-push server.jhand.space",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
