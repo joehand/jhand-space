@@ -35,10 +35,10 @@ function home (state, emit) {
         ${sectionTitle('Projects & Interesting Things')}
         ${linkList([
           {url: 'http://datproject.org', title: 'Dat Project'},
-          {url: '/cookies/', title: 'Making the Best Chocolate Chip Cookies'},
+          {url: '/cookies/', title: 'Making the Best Chocolate Chip Cookies'},,
+          {url: '/books/', title: 'Books I am Reading'},
           {url: 'http://joeahand.com', title: 'joeahand.com'},
-          {url: 'https://github.com/joehand/neat-log', title: 'neat-log'},
-          {url: 'https://hypertweet.glitch.me/', title: 'hypertweet'}
+          {url: 'https://github.com/joehand/neat-log', title: 'neat-log'}
         ])}
       </section>
     </main>
