@@ -4,6 +4,6 @@ title: jhand.space
 
 text:
 
-Hello! I am Joe, a purveyor of mediocre Hand-related jokes. On the side, I build public technology infastructure for a better tomorrow. I nerd out about maps, open data, and books.
+Hello! I am Joe, a purveyor of mediocre Hand-related jokes. I work at the intersection of communities and technology to address structural problems. Currently, I am Director of Operations and co-Executive Director of <a href="https://codeforscience.org" class="washed-red fw5 link dim">Code for Science & Society</a> and a core developer on <a href="https://datproject.org" class="washed-red fw5 link dim">Dat Project</a>. I nerd out about maps, social systems, open data, and books.
 
 Find out what I am doing <a href="/now/" class="washed-red fw5 link dim">now</a>. Have a sweet tooth? Learn how to make the <a href="/cookies/" class="washed-red fw5 link dim">best cookies</a> in the world. Support public data, <a href="http://donate.datproject.org" target="_blank" class="washed-red fw5 link dim">donate</a> to Dat Project.

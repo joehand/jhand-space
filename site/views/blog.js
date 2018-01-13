@@ -29,7 +29,7 @@ function blog (state, emit) {
 
 function linkList (links) {
   return html`
-    <ul class="list pl0 measure">
+    <ul class="list pl0 measure-wide">
       ${links.map(link)}
     </ul>
   `
@@ -38,7 +38,7 @@ function linkList (links) {
     if (entry.draft) return
     return html`
       <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--dotted b--washed-red">
-      <a class="db dim mv2 f3-ns f4 fw3 avenir lh-copy blue link" href="${entry.url}">
+      <a class="db dim mv2 f3-ns f4 fw4 avenir lh-copy blue link" href="${entry.url}">
         ${entry.title}
         <time class="f6 fw5 ttu tracked db black-60">${entry.date}</time>
       </a>
