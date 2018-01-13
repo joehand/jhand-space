@@ -15,11 +15,11 @@
   "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
   "license": "ISC",
   "dependencies": {
-    "choo": "^6.0.0",
+    "choo": "^6.6.1",
     "choo-log": "^7.2.1",
     "enoki": "^1.0.5",
     "fair-analytics-client-api": "^1.1.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.12",
     "nano-markdown": "^1.2.0",
     "nanocomponent": "^6.3.0",
     "object-keys": "^1.0.11",
