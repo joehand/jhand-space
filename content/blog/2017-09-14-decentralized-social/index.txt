@@ -1,0 +1,45 @@
+title: Decentralized Social Networks are a Human Problem
+----
+visible: false
+----
+date: 2017-09-14
+----
+view: entry
+----
+
+text:
+
+Researchers at the MIT media lab have looking at decentralized technology lately. They published an extensive report on [the decentralized web](http://dci.mit.edu/decentralizedweb) covering existing technologies, their benefits and shortcomings.
+
+As someone working on decentralized technology it's been a great resource. Unfortunately Beaker Browser, a peer-to-peer web browser powered by Dat, is not included in the research (the research was funded by the Knight Foundation, one of the main funders for Dat). Dat has not marketed around the decentralized web capabilities, something we are changing soon. And part of me is a bit happy Dat is not be lumped in with the technologies studied. We are the only nonprofit developing decentralized web tools and we hope to do things differently. Less marketing, less hype, just trying to make public infrastructure for a better future.
+
+Recently, they published an [opinion piece in Wired](https://www.wired.com/story/decentralized-social-networks-sound-great-too-bad-theyll-never-work/) identifying all the reasons decentralized social networks will never work. There are some good reasons in there, but the main thing that struck me was that all the concerns are *human-driven*, not *technological* shortcomings.
+
+The arguments against decentralized platforms fall under these issues:
+
+1. "these tools will face challenges acquiring users and gaining the attention of developers" - because of network effects and bad user interfaces.
+2. "These platforms also pose new security threats" - because of lack of real-world identities and confusing public key cryptography
+3. "Designing robust reward mechanisms to curate content that keeps people informed rather than entertained remains a problem." - and these curation tools are expensive.
+4. "platforms benefit from economies of scale" (both technological and social) - storage/bandwidth are cheaper at scale and social network effects make platforms more useful.
+
+All of these issues are either solved technological problems, or human/social issues. To say that decentralized social networks will never work is to admit the technical problems will overshadow the human problems.
+
+> The reality is that most people do not want to run their own web servers or social network nodes. They want to engage with the web through friendlier platforms, and these platforms will be constrained by the same forces that drive consolidation today.
+
+This is the root of the issue. This assumes that running servers or nodes is a prerequisite to decentralized social networks (it is not). This assumes that our public spaces and private spaces need to all exist in the same platform - and that the platform *must* be consolidated, thus centralized. The problem is that we think of Facebook, Twitter as the *platform*. And to succeed as such a platform, it must be a monopoly, which is the case. But, isn't it the web that is the platform?
+
+> A better strategy would be to pursue policies that strengthen the environment for decentralized platforms, including data portability, interoperability, and alternatives to advertising-based funding models.
+>
+> Decentralized web advocates have good intentions, but there’s no silver-bullet technical solution for the challenges that lie ahead.
+
+TK
+
+> The platforms that host and inform our networked public sphere are unelected, unaccountable, and often impossible to audit or oversee.
+
+These arguments all make the assumption that online public spaces must be privately owned and funded. This limits revenue sources to a few basic sources: ads, selling user data, or subscriptions. This assumption is correct in our current political environment but discounting other possibilities is why this restriction could fail in the future.
+
+> ... highlights the ever-expanding ways in which we now rely on large private platforms to facilitate our online activities.
+
+The core issue here is that we are relying on private enterprises to run our public online spaces. Nowhere is it mentioned that maybe, perhaps, some of these private platforms need to be public spaces. Real life and online life are now inseparable. Why do we keep forcing our public lives to be managed by private companies? Just as starting public libraries would not be viable in the current political atmosphere, starting public online spaces is not even considered.
+
+There are still a lot of questions about what a public online space means. But to fully disregarding that possibility continues to lead us to a path of relying on private companies to live life online.

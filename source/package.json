@@ -1,0 +1,36 @@
+{
+  "name": "jhand-space",
+  "version": "0.1.0",
+  "description": "jhand.space enoki site",
+  "main": "index.js",
+  "scripts": {
+    "start": "watchify index.js -o ../bundles/bundle.js -t sheetify -p [ css-extract -o ../bundles/bundle.css ] index.js",
+    "build": "browserify index.js -o ../bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o ../bundles/bundle.css ] -p tinyify"
+  },
+  "keywords": [],
+  "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "choo": "^6.10.3",
+    "dateformat": "^3.0.3",
+    "enoki": "^2.0.6",
+    "markdown-it": "^8.4.1",
+    "markdown-it-implicit-figures": "^0.6.0",
+    "marked": "^0.3.18",
+    "nanocomponent": "^6.4.0",
+    "object-keys": "^1.0.11",
+    "object-values": "^1.0.0",
+    "tachyons": "^4.9.1",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^15.2.0",
+    "css-extract": "^1.2.0",
+    "es2040": "^1.2.6",
+    "sheetify": "^7.0.0",
+    "sheetify-cssnext": "^1.0.7",
+    "tinyify": "^2.4.0",
+    "yo-yoify": "^3.7.3",
+    "watchify": "^3.10.0"
+  }
+}
