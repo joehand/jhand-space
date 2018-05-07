@@ -1,0 +1,8 @@
+title: Blog
+----
+
+view: blog
+
+----
+
+text: hey

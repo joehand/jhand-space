@@ -1,0 +1,23 @@
+title: Now
+----
+visible: true
+----
+view: entry
+----
+
+text:
+
+<span class="f7 avenir">*(This is my now page, letting you know what I am doing now. [The idea](http://nownownow.com/about) was inspired by Derek Sivers.)*</span>
+
+Another year living in Portland, Oregon! Hoping the somewhat-mild winter continues. Been loving the amount of walking I have done lately, though my bike feels a bit lonely. I had a nice end to 2017, I took a great trip to Haiti to visit a friend and enjoyed a nice (snowy!) Christmas in Portland. It's been quite the hectic start to 2018!
+
+We've been going through [organizational changes](https://blog.datproject.org/2017/12/20/organization-changes-dat-css/) at Dat and CSS. This has been quite time consuming and left me little time for non-reactive work. I'm now co-Executive Director of CSS with [Danielle Robinson](https://twitter.com/daniellecrobins) - couldn't ask for a better person to partner with for this! I am looking forward to formalizing the structure of both Dat and CSS in the coming months as we aim to create a more sustainable business and strengthen Dat's community.
+
+Other random things:
+
+* Started using the [Bullet Journal](http://bulletjournal.com/) this year! Mine is pretty minimal, but did spend some time making spaces to track some habits and other things. I'm liking it so far, but we will see how it feels after a bit more time.
+* I've been doing the [Happy Body](https://thehappybody.com/) program for exercise. It's a nice minimal program and feel it's finally addressing some of my structural imbalances causes by my torn Achilles. Unfortunately, I can't really recommend the book because it is so hard to figure out what they are telling you to do.
+* Lots of reading lately! I am aiming for 55 books this year. Last year I set my goal for 60 but got bogged down in some super long books and read about 45. I have quite a few half finished books, so I have a head start!
+* Every year in January, the Reed Ultimate Frisbee team goes to New Years Fest, a tournament in Arizona. This year will be our 10th year! Excited! Now I just have to get in shape to play frisbee...
+
+*Last updated: 13th January 2018.*

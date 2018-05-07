@@ -1,0 +1,71 @@
+/**
+ * not found
+ */
+
+.notfound {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 8rem);
+  width: 100vw;
+}
+
+/**
+ * loading
+ */
+
+.loading {
+  --radius: 1rem;
+  margin: calc(var(--radius) * -1);
+  height: calc(var(--radius) * 2);
+  width: calc(var(--radius) * 2);
+  border-radius: 50rem;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border: 3px solid var(--foreground);
+  border-top: 3px solid var(--background);
+  border-left: 3px solid var(--background);
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg) }
+  100% { transform: rotate(360deg) }
+}
+
+/**
+ * typography
+ */
+
+/*@font-face {
+  font-family: 'Lunch';
+  src: url('/assets/lunchtype22-light-webfont.woff2') format('woff2'),
+       url('/assets/lunchtype22-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lunch';
+  src: url('/assets/lunchtype23-light-italic-webfont.woff2') format('woff2'),
+    url('/assets/lunchtype23-light-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lunch';
+  src: url('/assets/lunchtype22-medium-webfont.woff2') format('woff2'),
+    url('/assets/lunchtype22-medium-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}*/
+
+@font-face {
+  font-family: 'Lunch';
+  src: url('/assets/lunchtype23-medium-italic-webfont.woff2') format('woff2'),
+    url('/assets/lunchtype23-medium-italic-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}

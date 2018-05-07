@@ -1,0 +1,15 @@
+title: The Web We Lost
+----
+visible: false
+----
+date: 2017-09-20
+----
+view: entry
+----
+
+text:
+
+https://www.youtube.com/watch?v=9KKMnoTTHJk
+
+https://blog.mozilla.org/internetcitizen/2017/07/27/434/
+https://twitter.com/anildash/status/723201129220284416

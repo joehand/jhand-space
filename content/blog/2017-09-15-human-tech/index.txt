@@ -1,0 +1,43 @@
+title: Seeking Human-Sized Technology
+----
+visible: false
+----
+date: 2017-09-15
+----
+view: entry
+----
+
+text:
+
+We've seen regularly in the last few months how tech aims to innovate without understand the human aspects of technology.
+
+The extension of capitalism to web technology was inevitable. What started as a research project has become the source of tbhe world's largest fourtunes. It is only expected that the capitalist mindset would be mirrored in software design.
+
+For those who skipped economics 101, rightly so, there is a large gap between economic models and the real world. Most economic models assume humans have perfect information and make decisions purely in economic terms. As economic models have moved to reflect the real world, the real world has also shifted towards economic models. To achieve a perfectly capitalism world we need less trust and human-driven differenetiation (things like location).
+
+Bitcoin and blockchain are the most visisble instance of this shift. To achieve a pefect capitalist market (a libertarian dream) you need perfect information and no friction in transactions. And by creating trustless global markets we move a step in that direction.
+
+Blockchain technology takes humans out of the picture *by design*. There is idea of wet code versus dry code in the blockchain world. Wet code is humans. Is is messy and not perfect. Dry code is the opposite. Without trust, there is no reason to differentiate between equal competitors or build relationships. If I am trying to buy file storage, I want the cheapest price - there is no other constraint because all other factors have been guarenteed by the software (availablility, reliability, etc.). This makes social constructs, such as groups, communities, or trust useless. And that is the purpose, those are part of wet code.
+
+(warning: rant about capitalism ahead)
+
+To achieve this level of capitalist prefection the market must be completely trustless. Bitcoin, for example, is an extension of pure capitalism. In capitalism, businesses relentlessly pursue increasing returns to scale. To lower production prices business seek the lowest paid labor, reduce expenses on non-essential things like healthcare, and advocate for less regulation and lower taxes.
+
+In seeking capital accumulation, markets generally leverage increaing amounts of resource consumption. These resources could be human, as we saw in slavery-driven America, or natural resources.
+
+Trustless networks furthur enable this.
+
+we need a system that still enables group collaboration. If everyone in a group trusts each other, there is no reason to get technologically more complex. Keep it human.
+
+we need "human sized technology".
+
+facebook, google, are also non human. network effect leads towards non-human solutions in order to monetize effectively. human requires it can work as well in small groups as large networks, without increasing returns to scale.
+
+**also similar to zebra startup idea** reference that at beginning
+
+https://medium.com/@sexandstartups/zebras-lets-get-in-formation-fdcbc72fec4a
+https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96
+
+https://nytimes.com/2017/09/15/business/cryptocurrency-bubble-doge.html
+https://medium.com/humane-tech/toward-humane-tech-23a20405681a
+https://medium.com/humane-tech

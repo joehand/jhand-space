@@ -1,0 +1,45 @@
+title: Resources for Thoughtful Technology Businesses
+----
+visible: false
+----
+date: 2017-09-15
+----
+view: entry
+----
+
+text:
+
+In the last few months I've been thinking and reading a lot about starting and funding thoughtful technology businesses. You can see my [book list](/book-shelf) for books on traditional business and marketing resources. But at Dat Project, we aren't seeking to just start a regular business. To learn more I've been looking at awesome examples of thoughtful, modern, tech-driven businesses.
+
+There have been some resources I keep going back to. As we share more about our nonprofit, Code for Science & Society, you'll see some themes emerging. A lot of that is driven by the writing and ideas from these amazing people. I'll keep this list updated and we continue to learn more.
+
+## Funding Open Source - Nadia Eghbal
+
+When starting a new business the first thing you need to decide is how to fund it. *In this case, I separate business from project. A project is something you can start with your extra time. A business is exists to be about more than you. We've started to make that shift with Dat.*
+
+But funding can be hard and confusing!
+
+* [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Great report on the current state of funding open source software work.
+* [A handy guide to financial support for open source
+](https://github.com/nayafia/lemonade-stand)
+* Find more from the awesome [Nadia Eghbal](https://twitter.com/nayafia)
+
+## Zebra Startups - Mara Zepada
+
+* [Zebras Fix What Unicorns Break](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96)
+* [Zebras Unite](https://www.zebrasunite.com/)
+* [Follow Mara](https://twitter.com/marazepeda) (and other Sex & Startups people) to learn more
+
+## Humane Tech & Glitch - Anil Dash
+
+
+* https://medium.com/humane-tech/toward-humane-tech-23a20405681a
+* https://medium.com/humane-tech
+
+
+## Other Nonprofit Tech Stuff
+
+Random examples, resources, other cool companies we are looking towards for inspiration.
+
+* [Ghost](https://ghost.org/) - check out the About page revenue info and [transparency](https://blog.ghost.org/tag/transparency/) blog posts
+* Wikipedia (Kaitin)
