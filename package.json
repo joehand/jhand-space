@@ -2,10 +2,11 @@
   "name": "jhand-space",
   "version": "0.1.0",
   "description": "jhand.space enoki site",
-  "main": "index.js",
+  "main": "source/index.js",
   "scripts": {
-    "start": "watchify index.js -o ../bundles/bundle.js -t sheetify -p [ css-extract -o ../bundles/bundle.css ] index.js",
-    "build": "browserify index.js -o ../bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o ../bundles/bundle.css ] -p tinyify"
+    "start": "enoki content -w & watchify source/index.js -o bundles/bundle.js -t sheetify -p [ css-extract -o bundles/bundle.css ] source/index.js",
+    "dev": "enoki content --watch & budo source/index.js --dir -s bundles/bundle.js -P -- -t sheetify -p [ css-extract -o bundles/bundle.css ]",
+    "build": "enoki content && browserify source/index.js -o bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o bundles/bundle.css ] -p tinyify"
   },
   "keywords": [],
   "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
@@ -13,7 +14,7 @@
   "dependencies": {
     "choo": "^6.10.3",
     "dateformat": "^3.0.3",
-    "enoki": "^2.0.6",
+    "enoki": "^2.1.0",
     "markdown-it": "^8.4.1",
     "markdown-it-implicit-figures": "^0.6.0",
     "marked": "^0.3.18",
