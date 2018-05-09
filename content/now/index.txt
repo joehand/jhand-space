@@ -2,7 +2,7 @@ title: Now
 ----
 visible: true
 ----
-view: entry
+view: page
 ----
 
 text:

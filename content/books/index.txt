@@ -3,7 +3,7 @@ title: Book Shelf
 ----
 visible: true
 ----
-view: entry
+view: page
 ----
 
 text:

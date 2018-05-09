@@ -1,0 +1,21 @@
+{
+  "title": "Page",
+  "pages": false,
+  "fields": {
+    "title": {
+      "label": "Title",
+      "type": "text",
+      "width": "1/2"
+    },
+    "nav": {
+      "label": "nav",
+      "type": "checkbox",
+      "text": "Visible in Navigation?",
+      "width": "1/2"
+    },
+    "text": {
+      "label": "Text",
+      "type": "textarea"
+    }
+  }
+}

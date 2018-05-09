@@ -1,0 +1,14 @@
+{
+  "title": "Home Page",
+  "pages": true,
+  "fields": {
+    "title": {
+      "label": "Title",
+      "type": "text"
+    },
+    "text": {
+      "label": "Text",
+      "type": "textarea"
+    }
+  }
+}
