@@ -4,9 +4,10 @@
   "description": "jhand.space enoki site",
   "main": "source/index.js",
   "scripts": {
+    "build-rss": "enoki content && node source/rss.js",
     "start": "enoki content -w & watchify source/index.js -o bundles/bundle.js -t sheetify -p [ css-extract -o bundles/bundle.css ] source/index.js",
     "dev": "enoki content --watch & budo source/index.js --dir -s bundles/bundle.js -P -- -t sheetify -p [ css-extract -o bundles/bundle.css ]",
-    "build": "enoki content && browserify source/index.js -o bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o bundles/bundle.css ] -p tinyify"
+    "build": "npm run build-rss && enoki content && browserify source/index.js -o bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o bundles/bundle.css ] -p tinyify"
   },
   "keywords": [],
   "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
