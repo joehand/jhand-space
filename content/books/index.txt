@@ -1,4 +1,4 @@
-title: Book Shelf
+title: Books
 
 ----
 visible: true

@@ -1,0 +1,13 @@
+date: 2018-07-04
+----
+theme: random
+----
+
+text:
+
+The Reed College experience is often hard to capture. The [latest Reed Magazine](http://www.reed.edu/reed_magazine/june2013/articles/features/oralhistory/oralhistory1.html) has a great history of the Reed experience and how it came to be. At Reed you "think about thinking" and learn reasoning by doing. During the process you realize “you are not your ideas, but merely a holder of your ideas.” But this all relies on a open process that does not define a starting and ending point:
+
+----
+visible: true
+----
+view: entry

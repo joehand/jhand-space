@@ -22,7 +22,7 @@ function view (state, emit) {
       <header class="avenir">
         <div class="washed-red bg-blue pa4 ph7-l">
           <div class="mw8 center">
-          <h1 class="f2 f1-m measure-narrow lh-title mv0">
+          <h1 class="f2 measure-narrow lh-title mv0">
             <span class="lh-copy tracked-tight">
             jhand.space/blog
             </span>

@@ -7,21 +7,21 @@ view: home
 ----
 
 links:
-  dat:
-    title: Dat Project
-    url: http://datproject.org
-  cookies:
-    title: Making the Best Chocolate Chip Cookies
-    url: /cookies/
+  notes:
+    title: Notes
+    url: /notes
   books:
     title: Books I am Reading
-    url: /books/
-  old-site:
-    title: joeahand.com
-    url: https://joeahand.com
-  neat-log:
-    title: neat-log
-    url: https://github.com/joehand/neat-log
+    url: /books
+  cookies:
+    title: Making the Best Chocolate Chip Cookies
+    url: /cookies
+  css:
+    title: Code for Science & Society
+    url: https://codeforscience.org
+  dat:
+    title: Dat Project
+    url: https://datproject.org
 
 ----
 
