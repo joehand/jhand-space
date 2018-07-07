@@ -7,4 +7,4 @@ view: notes
 
 text:
 
-Most of my thoughts, interesting things do not get to fully formed blog posts. I will publish random things here that may turn into blog posts later!
+*Collections of short notes, interesting links, and fun. For your curiosity.*

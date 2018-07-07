@@ -30,7 +30,7 @@ function view (state, emit) {
         </div>
       </header>
       <section class="pa4 baskerville ph7-l mw9-l center">
-        <div class="f4 measure lh-title mb5">
+        <div class="f6 measure-narrow lh-title mb5">
           ${format(page.text)}
         </div>
         ${Object.keys(themes).map(theme => linkList(themes[theme], theme))}
@@ -59,10 +59,11 @@ function linkList (links, theme) {
 
   function link (entry) {
     if (!entry.visible) return
+    var date = entry.date ? dateFormat(new Date(entry.date), 'dd mmmm yyyy') : ''
     return html`
-      <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--dotted b--washed-red">
+      <li class="lh-copy pv2 pb4-ns ba bl-0 bt-0 br-0 b--dotted b--washed-red">
         <span class="db mv2 avenir lh-copy">
-          <time class="f6 fw5 ttu tracked db black-60">${dateFormat(new Date(entry.date), 'dd mmmm yyyy')}</time>
+          <time class="f6 fw5 ttu tracked db black-60">${date}</time>
         </span>
         ${format(entry.text)}
       </li>
