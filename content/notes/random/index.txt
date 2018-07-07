@@ -1,0 +1,13 @@
+date: 2018-07-04
+----
+theme: random
+----
+
+text:
+
+This is start of my notes page! I use [Pocket](https://getpocket.com/@joeahand) to read articles and [Tweet](https://twitter.com/joeahand) about especially interesting finds. This is something between that and my blog. Goal, use a RSS reader on Dat so I can share my feed.
+
+----
+visible: true
+----
+view: entry

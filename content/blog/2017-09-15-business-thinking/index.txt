@@ -1,6 +1,6 @@
 title: Resources for Thoughtful Technology Businesses
 ----
-visible: false
+visible: true
 ----
 date: 2017-09-15
 ----

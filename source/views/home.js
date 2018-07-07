@@ -28,7 +28,7 @@ function view (state, emit) {
             <h4 class="f3-ns f4 fw2 avenir lh-copy">
              ${text()}
             </h4>
-            <h5 class="white f6 fw3 small-caps tracked">Made By (Joe) Hand</h5>
+            <h5 class="white f6 fw3 small-caps tracked">Made By Hand</h5>
           </div>
         </div>
       </header>

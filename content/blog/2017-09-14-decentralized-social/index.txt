@@ -1,6 +1,6 @@
 title: Decentralized Social Networks are a Human Problem
 ----
-visible: false
+visible: true
 ----
 date: 2017-09-14
 ----
@@ -32,7 +32,7 @@ This is the root of the issue. This assumes that running servers or nodes is a p
 >
 > Decentralized web advocates have good intentions, but there’s no silver-bullet technical solution for the challenges that lie ahead.
 
-TK
+...
 
 > The platforms that host and inform our networked public sphere are unelected, unaccountable, and often impossible to audit or oversee.
 

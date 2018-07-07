@@ -1,0 +1,10 @@
+title: Notes
+----
+
+view: notes
+
+----
+
+text:
+
+*Collections of short notes, interesting links, and fun. For your curiosity.*

@@ -1,0 +1,18 @@
+title: Learning About Open Source Licenses (+ License Zero)
+----
+date: 2018-07-05
+----
+view: entry
+----
+visible: false
+----
+
+text:
+
+
+Resources:
+
+* https://nadiaeghbal.com/oss/
+* https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
+* https://guide.licensezero.com
+* https://www.npmjs.com/package/licensee

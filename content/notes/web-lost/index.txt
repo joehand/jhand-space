@@ -1,0 +1,16 @@
+
+visible: true
+----
+theme: Internet
+----
+view: entry
+----
+
+text:
+
+*The Web We Lost*
+
+* https://twitter.com/anildash/status/723201129220284416
+* https://www.youtube.com/watch?v=9KKMnoTTHJk
+* https://blog.mozilla.org/internetcitizen/2017/07/27/434/
+
