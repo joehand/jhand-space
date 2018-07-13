@@ -9,10 +9,108 @@ visible: false
 
 text:
 
+Copyright and licensing in open source software is both at the forefront and regularly ignored. As an independent open source developer, I have always been aware of licensing, licensed most my projects, but never involved in the practical issues of copyright enforcement. To me, licenses and copyright were a very static thing; there is a license file, a person owns the copyright, and there are *consequences* if not followed. But through attempting to enforce licensing terms, I've begun to understand licensing more as a tool and avenue for managing adoption (also perhaps political statement, but less so now).
 
-Resources:
+## A Practical Introduction: Attempting to enforce hundreds of copyrights
+
+Unfortunately, my introduction to licensing was forced by extensive copyright violations of [Dat Project](https://datproject.org) software. A person posted copies of all our core modules with new names on GitHub and npm while removing all licenses, mentions of the copyright owner, and anything referencing Dat Project or the sources. This person had said in chat rooms that he was creating a new project, a "new distributed web", had created hundreds of new modules and was slowly releasing them. Of course, that distributed web was Dat and Beaker Browser. All stuff he claimed to build was the work we've put in over the last five years. *(Folks who watch the Silicon Valley show may laugh at the parallels to the "new Internet" and "new new Internet," an unfortunate reflection of the insidious culture of SV.)*
+
+Many of our projects use the MIT license. At just over 1000 characters, the MIT license reads relatively straight forward, especially this line:
+
+> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+However, lots of questions come up in the application and how to actually enforce that. The short answer I've learned is it is basically impossible for a set of loosely organized, independent software developers to enforce their copyright for mass violations. A large part of this is because the offender, if they aren't a commercial entity, has little incentive to follow the copyright and the penalty for violations is essentially nonexistent.
+
+Most importantly, I've learned that in any licensing discussion there is a lot of nuance! You can register copyrights to strengthen the penalty, commercial entities have extra reason to be cautious, etc. But the bottom line is that independent developers have no viable or worthwhile course of action in copyright enforcement, especially for permissive licenses such as MIT.
+
+*(It's been hard for me to square this conclusion with my feeling of having an ethical imperative to minimize the unsavory use of my software. We've been especially concerned about Dat being used in cryptocurrency or related scams.)*
+
+Folks may complain that we shouldn't care if someone takes our work, since it is open source and that is the point. Something something transition.
+
+## The Burden of Open Source
+
+While I'm focusing this post on licensing, it is hard to say anything about licensing in open source without considering how licensing impacts how developers spend their time. Open source encourages adoption with minimal bureaucratic overhead. That lack of overhead has implications for who needs support and how sustainable a project is.
+
+Too much other good writing has been done on this topic to spend more time on it. But suffice to say, licensing can be a critical point of leverage in open source. Some other recommended background reading:
 
 * https://nadiaeghbal.com/oss/
 * https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
+* L0 blog post
+
+The critical point here is that permissive licensing has a range of negative impacts on the copyright holder (expectations of support, lack of viable enforcement, no financial support) while giving positive impacts to users, especially commercial organizations.
+
+## Moving Forward
+
+While I'm not going to relitigate the old argument about whether open source is good carte blanche, it is worth noting that the extremes of open source have drastically different implications for copyright holders and there is no nuance in current licensing approaches. Consider the two situations:
+
+1. Developer builds a fun project for themselves that other independent developers use for their own fun projects.
+2. Developer builds library that gets used by thousands of people at commercial organizations.
+
+In the first situation, expectations are more clear, financial incentives are minimized, and support burden is relaxed. A developer in the second situation now has users with financial pressure (and benefits) which impact expectations and support requirements. However, licensing has very little gray area between permissive and financial ties with strong expectations.
+
+Looking at music distribution is an interesting thought exercise...
+
+## The Problem: Adoption vs Gainful Support
+
+
+A few key questions have surfaced in learning about licensing:
+
+* Who has the burden of proof?
+* Is there a credible threat of enforcement? What is the cost/penalty?
+* Where are the nuances, and who do they support?
+
+### Burden of Proof
+
+Any time you want to enforce your copyright, through your licensing terms, you must have some proof of wrongdoing. While platforms like YouTube have made this hurdle especially low for large commercial entities like record labels, my experience was not the same.
+
+### Impact of Enforcement
+
+
+### License Nuances
+
+
+---
+
+## Expectations
+
+* Am I paying you for this license for work completed?
+* How do I pay for ongoing support?
+
+
+## Licensing & Copyright
+
+* The credible threat of enforcement
+* DMCA headaches
+* Licensing management as an individual
+*
+
+
+## License Zero
+
+*Gainful software in the open*
+
+### Why I like License Zero
+
+* Make expectations around commercial use transparent.
+
+
+### Problems
+
+* Assumption that you can use open source work
+* Disconnect between developers and legal teams in commercial companies
+* 
+
+
+## Systemic Problems
+
+* We are trying to solve it from the abused party, not going to work.
+* Needs culture change within institutions using open source (especially academic institutions)
+
+
+https://licensezero.com/ids/0153a099-6acd-4023-8a96-9d81d9969a58/
+
+
+Resources:
+
 * https://guide.licensezero.com
 * https://www.npmjs.com/package/licensee
