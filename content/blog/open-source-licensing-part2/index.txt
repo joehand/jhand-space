@@ -1,0 +1,42 @@
+title: Learning About Open Source Licenses Part 2 (Featuring License Zero)
+----
+date: 2018-07-05
+----
+view: entry
+----
+visible: false
+----
+
+text:
+
+
+
+## License Zero
+
+*Gainful software in the open*
+
+### Why I like License Zero
+
+* Make expectations around commercial use transparent.
+
+
+### Problems
+
+* Assumption that you can use open source work
+* Disconnect between developers and legal teams in commercial companies
+* Downstream users (not using the immediate package)
+
+
+## Systemic Problems
+
+* We are trying to solve it from the abused party, not going to work.
+* Needs culture change within institutions using open source (especially academic institutions)
+
+
+https://licensezero.com/ids/0153a099-6acd-4023-8a96-9d81d9969a58/
+
+
+Resources:
+
+* https://guide.licensezero.com
+* https://www.npmjs.com/package/licensee

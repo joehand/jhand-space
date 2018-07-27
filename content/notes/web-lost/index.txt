@@ -5,6 +5,8 @@ theme: Internet
 ----
 view: entry
 ----
+date: 2017-10-01
+----
 
 text:
 

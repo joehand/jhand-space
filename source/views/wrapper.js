@@ -99,7 +99,7 @@ function renderNavigation (state, emit) {
       </div>
       <div class="flex-grow pa3 flex items-center">
         <a class="black f4 tracked-tight link fw2 hover-dark-red no-underline" href="${home.url}">
-          <span class="dn dib-ns">${home.title}</span>
+          <span class="dn dib-l">${home.title}</span>
           <svg
             class="dib h2 w2 mb1 pl3 v-mid"
             data-icon="grid"

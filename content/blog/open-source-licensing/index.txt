@@ -82,35 +82,3 @@ Any time you want to enforce your copyright, through your licensing terms, you m
 * The credible threat of enforcement
 * DMCA headaches
 * Licensing management as an individual
-*
-
-
-## License Zero
-
-*Gainful software in the open*
-
-### Why I like License Zero
-
-* Make expectations around commercial use transparent.
-
-
-### Problems
-
-* Assumption that you can use open source work
-* Disconnect between developers and legal teams in commercial companies
-* 
-
-
-## Systemic Problems
-
-* We are trying to solve it from the abused party, not going to work.
-* Needs culture change within institutions using open source (especially academic institutions)
-
-
-https://licensezero.com/ids/0153a099-6acd-4023-8a96-9d81d9969a58/
-
-
-Resources:
-
-* https://guide.licensezero.com
-* https://www.npmjs.com/package/licensee
