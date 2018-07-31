@@ -125,7 +125,8 @@ function renderFooter (state, emit) {
   return html`
     <footer class="flex avenir justify-between pa3">
       <div class="flex f4 fw2 items-center pa3">
-        <span class="dn dib-ns">Joe Hand | </span><a class="pl2 blue link" href="mailto:joe@hand.email">joe@hand.email</a>
+        <span class="dn dib-ns">Joe Hand | </span><a class="pl2 blue link" href="mailto:joe@hand.email" rel="me">joe@hand.email</a>
+        <a class="dn" href="https://twitter.com/joeahand" rel="me">twitter.com/joeahand</a>
       </div>
       <div class="flex-grow pa3 flex items-center">
         <a class="black tracked-tight link f4 fw2 hover-dark-red no-underline" href="#">
