@@ -1,0 +1,17 @@
+date: 2018-07-23
+----
+theme: technology
+----
+
+text:
+
+### Is Open Source Broken?
+
+* Talk on couchsurfing vs airbnb
+* Medium post on open source broken
+* Substack post (?)
+
+----
+visible: false
+----
+
