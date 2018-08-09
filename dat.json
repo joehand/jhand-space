@@ -1,5 +1,6 @@
 {
   "title": "jhand.space",
   "description": "Joe Hand's web space",
-  "url": "dat://7d9533feb5754dee84d3ca83a96d33cdec9a389fc462b05cfa96db759a88e7cf"
+  "url": "dat://69b0508c527cea593a20a49fdd1194506dbaf095e96c91a5862d3edfba646a9e",
+  "fallback_page": "index.html"
 }
