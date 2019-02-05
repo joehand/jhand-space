@@ -1,0 +1,17 @@
+date: 2019-02-04
+----
+theme: health
+----
+
+text:
+
+I found [Foundation Training](https://www.foundationtraining.com/) recently and have been loving it. The movements are similar to yoga but focus on the posterior change and other hip connectors. Though quite advanced (definitely learn the decompression breath first!), [this 12 minute workout](https://www.youtube.com/watch?v=4BOTvaRaDjI) is a great demonstration of the moves.
+
+[Decompression breathing](https://www.youtube.com/watch?v=mGv4T_Q4dGA) is one of the core ideas. While similar to other breathing practices, I found the trick of using your hand to measure your breath very helpful!
+
+I've started doing the foundation exercises in the book True to Form regularly. The goal is to do the moves 6 times per week, doing 6-7 different moves on alternating days. Unfortunately, I cannot recommend the book. Just not very good. Get it from your library and just follow the daily exercises =).
+
+----
+visible: true
+----
+view: entry
