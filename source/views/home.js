@@ -1,6 +1,6 @@
 var html = require('choo/html')
-var objectValues = require('object-values')
-var xtend = require('xtend')
+var objectValues = Object.values
+var xtend = Object.assign
 var format = require('../components/format')
 
 module.exports = view

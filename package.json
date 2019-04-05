@@ -12,27 +12,24 @@
   "author": "Joe Hand <joe@hand.email> (http://jhand.space)",
   "license": "Apache 2.0",
   "dependencies": {
-    "choo": "^6.13.1",
+    "choo": "^6.13.3",
     "dateformat": "^3.0.3",
-    "enoki": "^2.1.0",
+    "enoki": "github:joehand/enoki",
     "markdown-it": "^8.4.2",
     "markdown-it-implicit-figures": "^0.9.0",
-    "marked": "^0.6.0",
+    "marked": "^0.6.2",
     "nanocomponent": "^6.4.0",
-    "object-keys": "^1.0.12",
-    "object-values": "^2.0.0",
-    "tachyons": "^4.11.1",
-    "xtend": "^4.0.1"
+    "tachyons": "^4.11.1"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
-    "budo": "^11.6.0",
+    "budo": "^11.6.1",
     "css-extract": "^1.2.0",
     "es2040": "^1.2.6",
     "sheetify": "^7.3.3",
     "sheetify-cssnext": "^2.0.0",
     "tinyify": "^2.5.0",
-    "watchify": "^3.10.0",
+    "watchify": "^3.11.1",
     "yo-yoify": "^4.3.0"
   }
 }

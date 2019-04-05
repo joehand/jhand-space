@@ -1,5 +1,5 @@
-var objectValues = require('object-values')
-var objectKeys = require('object-keys')
+var objectValues = Object.values
+var objectKeys = Object.keys
 var html = require('choo/html')
 
 var views = require('./')

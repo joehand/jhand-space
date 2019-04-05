@@ -1,6 +1,6 @@
 var html = require('choo/html')
-var ov = require('object-values')
-var xtend = require('xtend')
+var ov = Object.values
+var xtend = Object.assign
 var dateFormat = require('dateformat')
 var format = require('../components/format')
 
