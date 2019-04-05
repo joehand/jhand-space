@@ -1,6 +1,6 @@
 # jhand.space
 
-*WIP* personal site for Joe Hand.
+*(always) WIP* personal site for Joe Hand.
 
 ## Built On
 
