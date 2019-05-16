@@ -1,10 +1,12 @@
 title: Learning About Open Source Licenses Part 2 (Featuring License Zero)
 ----
-date: 2018-07-05
+date: 2018-07-06
 ----
 view: entry
 ----
-visible: false
+visible: true
+----
+draft: true
 ----
 
 text:

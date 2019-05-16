@@ -1,10 +1,12 @@
-title: Learning About Open Source Licenses (+ License Zero)
+title: Learning About Open Source Licenses
 ----
 date: 2018-07-05
 ----
 view: entry
 ----
-visible: false
+visible: true
+----
+draft: true
 ----
 
 text:

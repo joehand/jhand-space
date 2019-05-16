@@ -50,6 +50,7 @@ function linkList (links) {
       <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--dotted b--washed-red">
       <a class="db dim mv2 f3-ns f4 fw4 avenir lh-copy blue link" href="${entry.url}">
         ${entry.title}
+        <span class="dark-red f6 i pl2 ${entry.draft ? '' : 'dn'}">${entry.draft ? ' [Draft]' : ''}</span>
         <time class="f6 fw5 ttu tracked db black-60">${dateFormat(new Date(entry.date), 'mmmm yyyy')}</time>
       </a>
       </li>

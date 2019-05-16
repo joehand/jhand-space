@@ -1,6 +1,8 @@
 title: Seeking Human-Sized Technology
 ----
-visible: false
+visible: true
+----
+draft: true
 ----
 date: 2017-09-15
 ----
