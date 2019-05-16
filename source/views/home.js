@@ -11,6 +11,7 @@ function view (state, emit) {
     .map(page => state.content[page.url])
     .map(page => xtend(page, { visible: page.visible }))
     .filter((page) => { return page.visible })
+    .filter((page) => { return !page.draft })
     .reverse().slice(0, 4)
   var links = objectValues(state.page.links)
 
