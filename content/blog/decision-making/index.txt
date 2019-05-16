@@ -1,0 +1,72 @@
+title: Nonprofit Leadership: Decision Making Fatigue
+----
+visible: true
+----
+draft: true
+----
+date: 2019-05-16
+----
+view: entry
+----
+
+text:
+
+Leaders everywhere face an overwhelming number of decisions. As leaders of nonprofits, we experience this like any other business leaders. However, we also face the extra burden of ensuring these decisions are made in the public interest, consistent with our mission, and often must do so with limited financial or personnel resources. As we grow as leaders, these decisions have a greater impact on a larger number of people.
+
+So how can we effectively make these decisions? I've found a few practices especially helpful:
+
+* Reduce the number of decisions by making meta-decisions.
+* Make all decision making consistent with high-level values.
+* Practice reviewing decisions to understand why decisions are made.
+
+These practices aim to make decision making less about specific decisions, which may be more emotionally or time dependent, to be more about making decisions based on your organizational or personal priorities.
+
+## Reduce the number of decisions
+
+This practice is the easiest and perhaps most effective. Consider a decision you make regularly, such as: "should I go to this conference or not?". Our aim is to make this decision once and for all, so you never have to consider each individual case. We do this by creating a simple but effective set of questions that ensures each decision is in line with our priorities.
+
+For each type of decision, we ask ourselves six questions. One set of three questions **must** all be yes and a second set must be yes for **two out of three**. For example, in our decisions around work travel we use the following questions:
+
+#### All Must Be Yes:
+
+*Answers to the questions must be yes for each decision.*
+
+* Are there essential relationships to build at this event?
+* Is this travel only during the week?
+* Is the schedule for that month clear of other travel?
+
+If any of the answers are *No*, then our decision is made. In this case, we can also map these questions to some of our current priorities: relationship building, family, and reducing burnout.
+
+#### 2 of 3 must be yes:
+
+* Is travel paid for?
+* Are we getting paid for our time?
+* Are we speaking to a large audience?
+
+*This practice is from the book Essentialism: The Disciplined Pursuit of Less by Greg McKeown.*
+
+## High-Level Decisions
+
+Identity-based decisions are much easier to make because they are in line with our core values and mission. Nonprofits must always be working for the public interest to fulfill our mission. But there is a lot of leeway in that and mission-driven decision making still leaves a lot of room for confusion and a wide variety of options.
+
+In this practice, we aim to make value-driven decisions to separate each individual decision from the circumstances. Since the application of this can be more complicated, we can first consider an easier example.
+
+### Dueling Identities: Athlete vs Couch Potato
+
+In this example, a person may have two separate identities:
+
+* I, Joe Hand, am an athlete.
+* I, Joe Hand, am a couch potato.
+
+Each decision is a *vote* for a specific identity. Throughout a day, we may make hundreds of decisions that could be a vote for one identity or the other:
+
+* I need to go to the store, how should I get there?
+  * Walk - a vote for the athlete identity.
+  * Drive - a vote for the couch potato identity.
+* What should I eat for dinner?
+  * Salad - athlete identity
+  * Potatoes - couch potato identity
+
+Over the course of a day, we aim to have more *votes* for the athlete identity than couch potato. By doing this, we reduce the burden of each individual decision and aim to, at the end of the day, have our preferred identity win the votes. This is especially helpful when facing decision making fatigue. If I cast 100 votes for athlete and 0 for couch potato before lunch, that gives me more leeway over the rest of the day. Maybe I want to have dessert, but that is okay because of how many decisions I've made in line with my preferred identity.
+
+*This practice is from the book Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear.*
