@@ -17,9 +17,9 @@ So how can we effectively make these decisions? I've found a few practices espec
 
 * Reduce the number of decisions by making meta-decisions.
 * Make all decision making consistent with high-level values.
-* Practice reviewing decisions to understand why decisions are made.
+* Review decisions with an eye towards process not outcomes.
 
-These practices aim to make decision making less about specific decisions, which may be more emotionally or time dependent, to be more about making decisions based on your organizational or personal priorities.
+These practices aim to make decision making less about specific decisions, which may be more emotionally or time dependent and based on circumstances or luck, to be more about making decisions based on your organizational or personal priorities.
 
 ## Reduce the number of decisions
 
@@ -70,3 +70,21 @@ Each decision is a *vote* for a specific identity. Throughout a day, we may make
 Over the course of a day, we aim to have more *votes* for the athlete identity than couch potato. By doing this, we reduce the burden of each individual decision and aim to, at the end of the day, have our preferred identity win the votes. This is especially helpful when facing decision making fatigue. If I cast 100 votes for athlete and 0 for couch potato before lunch, that gives me more leeway over the rest of the day. Maybe I want to have dessert, but that is okay because of how many decisions I've made in line with my preferred identity.
 
 *This practice is from the book Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear.*
+
+### Organizational Identities
+
+
+
+## Focus on Decision Processes Not Outcomes
+
+In leadership or project management advice, you often see talk of postmortems. A postmortem is a review of an outcome and what decisions led to that outcome and if they could have been made differently.
+
+An outcome is a result of a decision given some initial assumptions and some random luck. If you evaluate your work based on the outcomes, you may mistake a negative outcome for bad decisions. But it is possible to make the right decisions and get the wrong result. Thus, we must focus on the process around decisions rather than the decisions and outcomes themselves.
+
+A better postmortem would examine the way that each decision was made, evaluating them based on your assumptions, values, and [existing information]. By looking at the process, you can improve decisions across your organization rather than keeping the focus on a specific project or outcome. These can also be helpful whether the outcome is positive or negative.
+
+
+
+For example:
+
+* We achieved
