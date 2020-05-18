@@ -19,14 +19,11 @@ links:
   css:
     title: Code for Science & Society
     url: https://codeforscience.org
-  dat:
-    title: Dat Project
-    url: https://datproject.org
 
 ----
 
 text:
 
-Hello! I am Joe, a purveyor of mediocre Hand-related jokes. I work at the intersection of communities and technology to address structural problems. Currently, I am Co-Executive Director of <a href="https://codeforscience.org" class="washed-red fw5 link dim">Code for Science & Society</a> and a core developer on <a href="https://datproject.org" class="washed-red fw5 link dim">Dat Project</a>.
+Hello! I am Joe, a purveyor of mediocre Hand-related jokes. I work at the intersection of communities and technology to address structural problems. Currently, I am Co-Executive Director of <a href="https://codeforscience.org" class="washed-red fw5 link dim">Code for Science & Society</a>.
 
-Find out what I am doing <a href="/now/" class="washed-red fw5 link dim">now</a>. Have a sweet tooth? Learn how to make the <a href="/cookies/" class="washed-red fw5 link dim">best cookies</a> in the world. Support public data, <a href="http://donate.datproject.org" target="_blank" class="washed-red fw5 link dim">donate</a> to Dat Project.
+Find out what I am doing <a href="/now/" class="washed-red fw5 link dim">now</a>. Have a sweet tooth? Learn how to make the <a href="/cookies/" class="washed-red fw5 link dim">best cookies</a> in the world.
