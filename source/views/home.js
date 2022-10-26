@@ -33,14 +33,6 @@ function view (state, emit) {
           </div>
         </div>
       </header>
-      <!--<section class="pa4 pb2 baskerville ph7-l mw9-l center">
-        ${sectionTitle('Latest Writing', 'writing')}
-        ${linkList(entries)}
-      </section>
-      <section id="projects" class="ph4 pt0 pb4 baskerville ph7-l mw9-l center">
-        ${sectionTitle('Projects & Interesting Things')}
-        ${linkList(links)}
-      </section>-->
     </div>
   `
 
