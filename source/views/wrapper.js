@@ -94,9 +94,9 @@ function renderNavigation (state, emit) {
 
   return html`
     <nav class="avenir flex justify-between ph2 ph3-ns">
-      <div class="flex items-center pa3">
+      <!--<div class="flex items-center pa3">
         ${pages.map(renderLink)}
-      </div>
+      </div>-->
       <div class="flex-grow pa3 flex items-center">
         <a class="black f4 tracked-tight link fw2 hover-dark-red no-underline" href="${home.url}">
           <span class="dn dib-l">${home.title}</span>
