@@ -29,6 +29,7 @@ function view (state, emit) {
         ${view(state, emit)}
         ${renderFooter(state, emit)}
       </main>
+      <a class="dn" rel="me" href="https://friend.camp/@jhand">Mastodon</a>
     </body>
   `
 }
