@@ -24,6 +24,6 @@ links:
 
 text:
 
-Hello! I am Joe, a purveyor of mediocre Hand-related jokes. I work at the intersection of communities and technology to address structural problems. Currently, I am Director of Operations at <a href="https://codeforscience.org" class="washed-red fw5 link dim">Code for Science & Society</a>.
+Hello! I am Joe, a purveyor of mediocre Hand-related jokes. I work at the intersection of communities and technology to address structural problems.
 
 Have a sweet tooth? Learn how to make the <a href="/cookies/" class="washed-red fw5 link dim">best cookies</a> in the world.
