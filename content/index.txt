@@ -16,9 +16,6 @@ links:
   cookies:
     title: Making the Best Chocolate Chip Cookies
     url: /cookies
-  css:
-    title: Code for Science & Society
-    url: https://codeforscience.org
 
 ----
 
